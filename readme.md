@@ -1,5 +1,5 @@
 # _mesh_disp
 
-A method for extruding dispalcment maps with (three.js)[threejs.org]
+A method for extruding dispalcment maps with (three.js)[http://www.threejs.org]
 
-Textues from (Textures)[textures.com]
+Textues from (Textures)[http://www.textures.com]
